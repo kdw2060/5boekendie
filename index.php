@@ -13,14 +13,14 @@
    <div class="intro notification is-primary">
             <h1>Proof of concept bibliotheeklinks bij de '5 boeken die' reeks van vrtNWS.be</h1>
             
-            <p>Deze pagina is bedoeld als voorbeeld van hoe bij cultuuritems op de vrtNWS-website steeds links voorzien zouden kunnen worden naar de besproken items in de catalogus van de Vlaamse openbare biblioteheken. In dit voorbeeld is vertrokken van een link naar manueel gecureerde lijstjes in de provinciale bibcatalogus van Antwerpen. Indien metadata zoals isbn/ean zou toegevoegd worden aan de vrt-website kan ook een script geschreven worden dat automatisch links naar individuele items genereert.</p>
+            <p>Deze pagina is bedoeld als voorbeeld van hoe bij cultuuritems op de vrtNWS-website steeds links voorzien zouden kunnen worden naar de besproken items in de catalogus van de Vlaamse openbare bibliotheken. In dit voorbeeld is vertrokken van een link naar manueel gecureerde lijstjes in de provinciale bibcatalogus van Antwerpen. Indien metadata zoals isbn/ean zou toegevoegd worden aan de vrt-website kan ook een script geschreven worden dat automatisch links naar individuele items genereert.</p>
             <p>Dit voorbeeld is snel in mekaar geknutseld, hou er rekening mee dat:</p>
             <ul>
                 <li>niet bij elk item een werkende link voorzien is</li>
                 <li>de artikelafbeeldingen niet ingeladen worden</li>
                 <li>je niet kunt doorklikken naar de individuele artikeltjes, maar het idee zou zijn om de links eerder daar te tonen dan hier op het overzicht.</li>
             </ul>
-            <p><a href="">Meer info - contact</a></p>
+            <p><a href="https://github.com/kdw2060/5boekendie">Meer info - contact</a></p>
     </div>
     <div class="vrtnwspagina">
     <?php echo file_get_contents('https://www.vrt.be/vrtnws/nl/dossiers/2017/09/boekentips/'); ?>
