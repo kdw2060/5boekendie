@@ -6,7 +6,6 @@
     <link rel="stylesheet" type="text/css" href="style.css" />
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.0/css/bulma.css" />
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-    <script src="https://www.vrt.be/etc/clientlibs/components/picturefill.min.cfd5e44f44f3094a7a2a3ff9b2c339e6.js"></script>
     <link rel="stylesheet" type="text/css" href="https://www.vrt.be/etc/designs/vrtnieuws/clientlib-all.min.806fc7e484750f8d0bfcd3df693acf2a.css" />
     
 </head>
