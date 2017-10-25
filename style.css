@@ -1,0 +1,52 @@
+.intro {
+    margin-top: .5em;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.intro h1 {
+    font-weight: 500;
+    font-size: 1.2em;
+    padding-bottom: 1em;
+}
+
+.intro p {
+    font-size: .8em;
+    padding-bottom: 5px;
+}
+
+.intro ul {
+    list-style: circle !important;
+    font-size: .8em;
+    margin-left: 20px;
+    padding-bottom: 1em;
+}
+
+.intro li {
+    display: list-item;
+}
+
+.vrtnwspagina, .targetdiv {
+    position: absolute;
+}
+header {
+    top: 10px !important;
+    position: relative !important;
+}
+.biblink{
+    color: rgb(220, 20, 60);
+    text-decoration: underline;
+    font-family: "Forma DJR Micro", Helvetica, Arial, sans-serif;
+    font-size: .60em;
+}
+.nobiblink {
+    color: rgb(220, 20, 60);
+    font-family: "Forma DJR Micro", Helvetica, Arial, sans-serif;
+    font-size: .60em;
+    font-style: italic;
+}
+.biblogo {
+    height: 20px;
+    vertical-align: middle;
+    padding-right: 4px;
+}
